@@ -32,7 +32,7 @@ __Manual testing__
    * Estas pruebas se aplicaron en varias plataformas.
    * Las pruebas fueron a nivel de Usuario y Funcionales.
 
-__Test analysis & design__
+__Análisis y diseño de casos de prueba__
   * Creación de listado de funcionalidades.
   * Plantillas con variables de una funcionalidad.
   * Creación de casos de prueba con las técnicas:
@@ -43,7 +43,7 @@ __Test analysis & design__
       * Guías para automatización de pruebas.
 
 
-__Test documentation__
+__Documentación__
   * Capaz de crear reportes de incidentes concisos y de valor en diferentes plataformas.
   * Capaz de crear Mapas mentales y flujos de datos.
   * Capaz de asignar calificaciónes a los incidentes (Severidad, Prioridad, etc).
@@ -51,7 +51,7 @@ __Test documentation__
   * Generación de informes completos.
   * Generación de informes con análisis de los incidentes Reportados/Solucionados/Pendientes por sprints.
 
-__SQL databases__
+__SQL__
   * Capaz de generar consultas complejas con sub-consultas
   * Capaz de crear y modificar conjuntos de tablas.
   * Utilización de diferentes plataformas.

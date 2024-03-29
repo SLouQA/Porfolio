@@ -29,7 +29,7 @@ Puedes descargar mi CV directo desde mi Google Drive en formato [PDF aquí.](htt
 Puedes visualizar cómo fueron aplicados en diferentes proyectos en [proyectos realizados](#proyectos-realizados).
 
 __Manual testing__
-   * Estas pruebas se aplicaron varias plataformas (Web, movil -aplicaciones de escritorio-).
+   * Estas pruebas se aplicaron varias plataformas.
    * Las pruebas fueron a nivel de Usuario y Funcionales.
 
 __Test analysis & design__

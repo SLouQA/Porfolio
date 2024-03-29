@@ -22,7 +22,7 @@ Sumado a mis habilidades técnicas, también tengo mucho interés por el estudio
 
 ## CV
 
-Puedes descargar mi CV directo desde mi Google Drive en formato [PDF aquí](https://drive.google.com/file/d/1JbxritKUKRZi3u6_lqq2UISOeOOBTFNt/view?usp=drive_link).
+Puedes descargar mi CV directo desde mi Google Drive en formato [PDF aquí.](https://drive.google.com/file/d/1GC6ebzjpEN4y80_l6RA79XbUi86TO3Fj/view?usp=drive_link)
 
 ## Skills
 

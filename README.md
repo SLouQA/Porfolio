@@ -1,12 +1,12 @@
 
 # Porfolio
-- [Sobre mí](https://github.com/SLouQA/Porfolio/edit/main/README.md#sobre-m%C3%AD)
+- [Sobre mí](https://github.com/SLouQA/Porfolio?tab=readme-ov-file#sobre-m%C3%AD)
 - [CV](#cv)
 - [Skills](#skills)
 - [Herramientas](#herramientas)
 - [Estudios IT](#estudios-it)
 - [Proyectos realizados](#proyectos-realizados)
-  * [NoCountry](https://github.com/SLouQA/Porfolio/edit/main/README.md#nocoutry)
+  * [NoCountry](https://github.com/SLouQA/Porfolio?tab=readme-ov-file#nocoutry)
   * [Survio](#survio)
   * [Calculadora para piscinas](#calculadora-para-piscinas)
 

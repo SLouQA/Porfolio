@@ -143,7 +143,7 @@ __Python__
 * Como prueba final del primer semestre en CES se presentó:
     * Un informe completo de lo realizado. [Descargar](https://drive.google.com/file/d/1F1zBYL5n5EEjOgh21P0jths2dFHZmTYv/view?usp=drive_link)
     * Un informe del Testing exploratorio realizado. [Descargar](https://drive.google.com/file/d/1ePgtQzAlbnwLO7T6_Aw3GnvbtMfX6V-L/view?usp=drive_link)
-    * Un Excel (que puedes descargar [aquí)](https://docs.google.com/spreadsheets/d/14NCFKIHVks6dbk2JhaBUgh36gDz3qbs8/edit?usp=drive_link&ouid=101018078137548223868&rtpof=true&sd=true)con:
+    * Un Excel (que puedes descargar [aquí)](https://docs.google.com/spreadsheets/d/14NCFKIHVks6dbk2JhaBUgh36gDz3qbs8/edit?usp=drive_link&ouid=101018078137548223868&rtpof=true&sd=true) con:
         * Inventario de funcionalidades (excluyendo las "premium")
         * Variables de la funcionalidad "Calcular el cloro"
         * Diseño y ejecución de casos de prueba con clases de equivalencia.

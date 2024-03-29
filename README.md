@@ -85,9 +85,11 @@ __Editor y gestor de código__
 
 __Tester de Software__  
 *03/2023 - 12/2023 · Centro de Ensayos de Software*  
--Curso anual completo, en la Escolaridad se puede observar también el programa.  
--[Escolaridad](https://drive.google.com/file/d/1X10hdNje08le4_F2iDjq4WmDkIz1nL5A/view?usp=drive_link)
--[Diploma](https://drive.google.com/file/d/11VKE-MV7RsGCBckkX9tUDS6Rq3WkpJDy/view?usp=drive_link)  
+Curso anual completo, en la Escolaridad se puede observar también el programa.  
+
+[Escolaridad](https://drive.google.com/file/d/1X10hdNje08le4_F2iDjq4WmDkIz1nL5A/view?usp=drive_link)
+
+[Diploma](https://drive.google.com/file/d/11VKE-MV7RsGCBckkX9tUDS6Rq3WkpJDy/view?usp=drive_link)  
 
 *Completo*
 

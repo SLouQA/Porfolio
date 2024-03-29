@@ -6,7 +6,7 @@
 - [Herramientas](#herramientas)
 - [Estudios IT](#estudios-it)
 - [Proyectos realizados](#proyectos-realizados)
-  * [No Coutry](#no-country)
+  * [NoCoutry](#no-country)
   * [Survio](#survio)
   * [Calculadora para piscinas](#calculadora-para-piscinas)
 
@@ -124,7 +124,7 @@ Curso que cuenta con 4 partes.
 
 ## Proyectos realizados
 
-### No Coutry
+### NoCoutry
 *Actualmente*
 * Actualmente como proyecto de No Country estamos desarrollando una web para levantar tickets. (Se agregará más información al finalizar)
 

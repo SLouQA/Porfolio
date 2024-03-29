@@ -124,11 +124,12 @@ Curso que cuenta con 4 partes.
 
 ## Proyectos realizados
 
-### No Coutry 
+### No Coutry
 *Actualmente*
 * Actualmente como proyecto de No Country estamos desarrollando una web para levantar tickets. (Se agregará más información al finalizar)
 
-### Survio [Web](https://www.survio.com/es/) 
+### Survio
+[Web](https://www.survio.com/es/) 
 *26/11/2023*
 * Como prueba final del curso del diploma Tester de Software (CES) se presentó:
      * Presentar un informe completo de lo realizado.[Puedes descargar aquí.](https://drive.google.com/file/d/1j5mrW69OSZSa2gJW-0IRswRPwzCMaRs3/view?usp=drive_link)
@@ -140,7 +141,8 @@ Curso que cuenta con 4 partes.
      * Crear un guión para automatizar la prueba "Dar de alta una encuesta" [Puedes descargar aquí.](https://drive.google.com/file/d/1oqq2NPeSM6HQ7YYCaXVZCj14O4tFPTeK/view?usp=drive_link)
      * Reportar 3 de los bugs encontrados.[Puedes descargar aquí.](https://drive.google.com/drive/folders/1bMxNGkDwGjeRrso6GGtg7Z3F6zmwW8_e?usp=drive_link)
   
-### Calculadora para piscinas [APP](https://play.google.com/store/apps/details?id=com.israel.montero.fernando.calculadorapiscinas&hl=es_UY&gl=US&pli=1) 
+### Calculadora para piscinas
+[APP](https://play.google.com/store/apps/details?id=com.israel.montero.fernando.calculadorapiscinas&hl=es_UY&gl=US&pli=1) 
 *18/06/2023*
 * Como prueba final del primer semestre en CES se presentó:
     * Un informe completo de lo realizado. [Puedes descargar aquí.](https://drive.google.com/file/d/1F1zBYL5n5EEjOgh21P0jths2dFHZmTYv/view?usp=drive_link)

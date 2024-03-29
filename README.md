@@ -2,7 +2,7 @@
 # Porfolio
 - [Sobre mí](#sobre-mi)
 - [CV](#cv)
-- [Hard Skills](#h-skills)
+- [Skills](#skills)
 - [Herramientas](#herramientas)
 - [Estudios IT](#estudios-it)
 - [Proyectos realizados](#proyectos-realizados)
@@ -24,7 +24,7 @@ Sumado a mis habilidades técnicas, también tengo mucho interés por el estudio
 
 Puedes descargar mi CV directo desde mi Google Drive en formato [PDF aquí](https://drive.google.com/file/d/1JbxritKUKRZi3u6_lqq2UISOeOOBTFNt/view?usp=drive_link).
 
-## Hard Skills
+## Skills
 
 Puedes visualizar cómo fueron aplicados en diferentes proyectos en [proyectos realizados](#proyectos-realizados).
 
@@ -123,13 +123,15 @@ Curso que cuenta con 4 partes.
 *Cursando*
 
 
-## Proyectos
+## Proyectos realizados
 
-### No Coutry *Actualmente*
+### No Coutry 
+*Actualmente*
 * Actualmente como proyecto de No Country estamos desarrollando una web para levantar tickets. (Se agregará más información al finalizar)
 
-### Survio [Web](https://www.survio.com/es/) *26/11/2023*
-* Como prueba final del curso de Tester de Software se debía:
+### Survio [Web](https://www.survio.com/es/) 
+*26/11/2023*
+* Como prueba final del curso del diploma Tester de Software (CES) se presentó:
      * Presentar un informe completo de lo realizado.[Puedes descargar aquí.](https://drive.google.com/file/d/1j5mrW69OSZSa2gJW-0IRswRPwzCMaRs3/view?usp=drive_link)
      * Crear un listado de Funcionalidades. [Puedes descargar aquí.](https://docs.google.com/spreadsheets/d/1CKKnK93xiCpLVsCzQT0IGJfXvuR2Enrm/edit?usp=drive_link&ouid=101018078137548223868&rtpof=true&sd=true)
      * Diseñar y ejecutar casos de prueba para la funcionalidad "Crear nueva encuesta" los cuales fueron ralizados con máquina de estado. [Puedes descargar aquí.](https://docs.google.com/spreadsheets/d/1eJHZPZ8Ogl0uxVp86I5NUpo7AGeakvX-/edit?usp=drive_link&ouid=101018078137548223868&rtpof=true&sd=true)
@@ -139,7 +141,8 @@ Curso que cuenta con 4 partes.
      * Crear un guión para automatizar la prueba "Dar de alta una encuesta" [Puedes descargar aquí.](https://drive.google.com/file/d/1oqq2NPeSM6HQ7YYCaXVZCj14O4tFPTeK/view?usp=drive_link)
      * Reportar 3 de los bugs encontrados.[Puedes descargar aquí.](https://drive.google.com/drive/folders/1bMxNGkDwGjeRrso6GGtg7Z3F6zmwW8_e?usp=drive_link)
   
-### Calculadora para piscinas [APP](https://play.google.com/store/apps/details?id=com.israel.montero.fernando.calculadorapiscinas&hl=es_UY&gl=US&pli=1) *18/06/2023*
+### Calculadora para piscinas [APP](https://play.google.com/store/apps/details?id=com.israel.montero.fernando.calculadorapiscinas&hl=es_UY&gl=US&pli=1) 
+*18/06/2023*
 * Como prueba final del primer semestre en CES se presentó:
     * Un informe completo de lo realizado. [Puedes descargar aquí.](https://drive.google.com/file/d/1F1zBYL5n5EEjOgh21P0jths2dFHZmTYv/view?usp=drive_link)
     * Un informe del Testing exploratorio realizado. [Puedes descargar aquí.](https://drive.google.com/file/d/1ePgtQzAlbnwLO7T6_Aw3GnvbtMfX6V-L/view?usp=drive_link)

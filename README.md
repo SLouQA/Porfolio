@@ -11,8 +11,8 @@
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
 
-
-## Sobre mí
+<a id="sobre-mi"></a>
+## Sobre mí 
 
 Mis habilidades están comprendidas por el testing manual y automatizado, así como la generación de documentación de requisitos funcionales. Lo anterior se complementa con más de diez años de experiencia en la industria de seguros, donde me especialicé en la utilización de diferentes software afines con el sector.
 
@@ -24,7 +24,7 @@ Sumado a mis habilidades técnicas, también tengo mucho interés por el estudio
 
 Puedes descargar mi CV directo desde mi Google Drive en formato [PDF aquí](https://drive.google.com/file/d/1JbxritKUKRZi3u6_lqq2UISOeOOBTFNt/view?usp=drive_link).
 
-## Hard Skills
+## Skills
 
 Puedes visualizar cómo fueron aplicados en la sección de [Proyectos realizados](#proyectos-realizados).
 

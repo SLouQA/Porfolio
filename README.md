@@ -31,7 +31,6 @@ Puedes visualizar cómo fueron aplicados en diferentes proyectos en [proyectos r
 __Manual testing__
    * Estas pruebas se aplicaron varias plataformas (Web, movil -aplicaciones de escritorio-).
    * Las pruebas fueron a nivel de Usuario y Funcionales.
-   * 
 
 __Test analysis & design__
   * Creación de listado de funcionalidades.

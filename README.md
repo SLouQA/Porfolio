@@ -4,14 +4,14 @@
 - [CV](#cv)
 - [Hard Skills](#h-skills)
 - [Herramientas](#herramientas)
-- [Estudios](#estudios)
+- [Estudios IT](#estudios-it)
 - [Proyectos realizados](#proyectos-realizados)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
+  * [No Coutry](#no-country)
+  * [Survio](#survio)
+  * [Calculadora para piscinas](#calculadora-para-piscinas)
 
-<a id="sobre-mi"></a>
+
+
 ## Sobre mí 
 
 Mis habilidades están comprendidas por el testing manual y automatizado, así como la generación de documentación de requisitos funcionales. Lo anterior se complementa con más de diez años de experiencia en la industria de seguros, donde me especialicé en la utilización de diferentes software afines con el sector.
@@ -24,9 +24,9 @@ Sumado a mis habilidades técnicas, también tengo mucho interés por el estudio
 
 Puedes descargar mi CV directo desde mi Google Drive en formato [PDF aquí](https://drive.google.com/file/d/1JbxritKUKRZi3u6_lqq2UISOeOOBTFNt/view?usp=drive_link).
 
-## Skills
+## Hard Skills
 
-Puedes visualizar cómo fueron aplicados en la sección de [Proyectos realizados](#proyectos-realizados).
+Puedes visualizar cómo fueron aplicados en diferentes proyectos en [proyectos realizados](#proyectos-realizados).
 
 __Manual testing__
    * Estas pruebas se aplicaron varias plataformas (Web, movil -aplicaciones de escritorio-).
@@ -82,20 +82,24 @@ __Editor y gestor de código__
   * GitHub.
   * Visual Studio Code
 
-## Courses
+## Estudios IT
 
 __Tester de Software__  
 *03/2023 - 12/2023 · Centro de Ensayos de Software*  
 Curso anual completo, en la Escolaridad se puede observar también el programa.  
 [Escolaridad](https://drive.google.com/file/d/1X10hdNje08le4_F2iDjq4WmDkIz1nL5A/view?usp=drive_link)
 [Diploma](https://drive.google.com/file/d/11VKE-MV7RsGCBckkX9tUDS6Rq3WkpJDy/view?usp=drive_link)  
+
 *Completo*
+
 
 __Programación para testers__  
 *Curso online de [The Free Ranger Tester](https://www.udemy.com/user/patricio-miner/) · Udemy*  
 Curso básico de 3 hs.   
 [Certificado](https://udemy-certificate.s3.amazonaws.com/image/UC-1fa3a0a9-69df-4932-bf8e-19948dbec4c1.jpg)
+
 *Completo*
+
 
 __SQL__  
 *Curso online de [Desafío Latam](https://desafiolatam.com/)*  
@@ -121,31 +125,28 @@ Curso que cuenta con 4 partes.
 
 ## Proyectos
 
-### No Coutry
+### No Coutry *Actualmente*
+* Actualmente como proyecto de No Country estamos desarrollando una web para levantar tickets. (Se agregará más información al finalizar)
 
-- Actualmente estamos con un equipo de desarrollo una app de 
-
-
-### Calculadora para piscinas [APP](https://play.google.com/store/apps/details?id=com.israel.montero.fernando.calculadorapiscinas&hl=es_UY&gl=US&pli=1)
-- Como prueba final del primer semestre en CES se presentó:
-    * Un informe completo de lo realizado. [Que puedes descargar aquí.](https://drive.google.com/file/d/1F1zBYL5n5EEjOgh21P0jths2dFHZmTYv/view?usp=drive_link)
-    * Un informe del Testing exploratorio realizado. [Que puedes descargar aquí.](https://drive.google.com/file/d/1ePgtQzAlbnwLO7T6_Aw3GnvbtMfX6V-L/view?usp=drive_link)
+### Survio [Web](https://www.survio.com/es/) *26/11/2023*
+* Como prueba final del curso de Tester de Software se debía:
+     * Presentar un informe completo de lo realizado.[Puedes descargar aquí.](https://drive.google.com/file/d/1j5mrW69OSZSa2gJW-0IRswRPwzCMaRs3/view?usp=drive_link)
+     * Crear un listado de Funcionalidades. [Puedes descargar aquí.](https://docs.google.com/spreadsheets/d/1CKKnK93xiCpLVsCzQT0IGJfXvuR2Enrm/edit?usp=drive_link&ouid=101018078137548223868&rtpof=true&sd=true)
+     * Diseñar y ejecutar casos de prueba para la funcionalidad "Crear nueva encuesta" los cuales fueron ralizados con máquina de estado. [Puedes descargar aquí.](https://docs.google.com/spreadsheets/d/1eJHZPZ8Ogl0uxVp86I5NUpo7AGeakvX-/edit?usp=drive_link&ouid=101018078137548223868&rtpof=true&sd=true)
+     * Ejecutar una sesión de Testing exploratorio. [Puedes descargar aquí.](https://drive.google.com/file/d/1b_nlXcQJv5i9JP3owVSQ1Cn3jMvCSWEb/view?usp=drive_link)
+     * Crear casos de prueba para las opciones avanzadas y básicas de una encuesta por medio de combinación por pares [Puedes descargar aquí.](https://drive.google.com/drive/folders/1WdTygqQrrKJhX-Gwu9oTirLSjBzX9S9s?usp=drive_link)
+     * Crear, modificar y hacer consultas en DB SQL. [Puedes descargar aquí.](https://drive.google.com/drive/folders/1SIL5KrJYzlkbMX3EVhfBKRsm5k1S8YWb?usp=drive_link)
+     * Crear un guión para automatizar la prueba "Dar de alta una encuesta" [Puedes descargar aquí.](https://drive.google.com/file/d/1oqq2NPeSM6HQ7YYCaXVZCj14O4tFPTeK/view?usp=drive_link)
+     * Reportar 3 de los bugs encontrados.[Puedes descargar aquí.](https://drive.google.com/drive/folders/1bMxNGkDwGjeRrso6GGtg7Z3F6zmwW8_e?usp=drive_link)
+  
+### Calculadora para piscinas [APP](https://play.google.com/store/apps/details?id=com.israel.montero.fernando.calculadorapiscinas&hl=es_UY&gl=US&pli=1) *18/06/2023*
+* Como prueba final del primer semestre en CES se presentó:
+    * Un informe completo de lo realizado. [Puedes descargar aquí.](https://drive.google.com/file/d/1F1zBYL5n5EEjOgh21P0jths2dFHZmTYv/view?usp=drive_link)
+    * Un informe del Testing exploratorio realizado. [Puedes descargar aquí.](https://drive.google.com/file/d/1ePgtQzAlbnwLO7T6_Aw3GnvbtMfX6V-L/view?usp=drive_link)
     * Un Excel [(que puedes descargar aquí)](https://docs.google.com/spreadsheets/d/14NCFKIHVks6dbk2JhaBUgh36gDz3qbs8/edit?usp=drive_link&ouid=101018078137548223868&rtpof=true&sd=true)con:
         * Inventario de funcionalidades (excluyendo las "premium")
         * Variables de la funcionalidad "Calcular el cloro"
         * Diseño y ejecución de casos de prueba con clases de equivalencia.
-    * Reportes en Mantis BT [Que puedes descargar aquí.](https://drive.google.com/drive/folders/1NRtKE8Y7w53Uuwn6rriW-uIloM-JLo3K?usp=drive_link) (Tienen imágenes y/o gif para mostrar los incidentes pero no se ve en el PDF)
+    * Reportes en Mantis BT. [Puedes descargar aquí.](https://drive.google.com/drive/folders/1NRtKE8Y7w53Uuwn6rriW-uIloM-JLo3K?usp=drive_link) (Tienen imágenes y/o gif para mostrar los incidentes pero no se ve en el PDF)
+* Para este proyecto se utilizó Blue Stack 5 como emulador.
  
-
-### Mindmaps and diagrams
-* Functional decomposition of [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the mindmap](https://drive.google.com/file/d/1i1O25CTJNYbuZAmigsRFJjPzUhbRJduY/view?usp=sharing).
-* State-transition diagram of the loan application at [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the diagram](https://drive.google.com/file/d/1yr1i_gvkTDtbw-ZZF9I_o5CKQZuc2KWG/view?usp=sharing).
-* Decomposition of an online converter of text documents to PDF using actions-parameters-values. Check [the diagram](https://drive.google.com/file/d/1gbBCBGNyRJhp0DhFgFbpxrb9F2Zd5LnH/view?usp=sharing).
-* Mindmap of the interfaces of [the training webpage Enotes](https://enotes.pointschool.ruin). Check [the mindmap](https://drive.google.com/file/d/1gzv3ADI2_tm_Of0rk_gZDZ1niW50w4oc/view?usp=sharing).
-
-### Scripts for PICT (pairwise testing)
-
-* Generating combinations for the form consisting of 3 fields, where possible values of the one field depend on the values of another field. See [the script for MS PICT](https://drive.google.com/file/d/1nRuFkKA2pXFHHFwfph0SuXq-2p22VLtD/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1bKWMw8rqOy477JpRgfS8-koDd2jm3MEv/view?usp=sharing).
-* Generating combinations for the form consisting of 5 fields. See [the script for MS PICT](https://drive.google.com/file/d/1jG72-v808dXlvSxcC6EYkiaZNbZZTeIB/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1WlKu_FRv-kSVPPoQlL-7wz6CXqr9f2bi/view?usp=sharing).
-
-

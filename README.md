@@ -85,9 +85,9 @@ __Editor y gestor de código__
 
 __Tester de Software__  
 *03/2023 - 12/2023 · Centro de Ensayos de Software*  
-Curso anual completo, en la Escolaridad se puede observar también el programa.  
-[Escolaridad](https://drive.google.com/file/d/1X10hdNje08le4_F2iDjq4WmDkIz1nL5A/view?usp=drive_link)
-[Diploma](https://drive.google.com/file/d/11VKE-MV7RsGCBckkX9tUDS6Rq3WkpJDy/view?usp=drive_link)  
+-Curso anual completo, en la Escolaridad se puede observar también el programa.  
+-[Escolaridad](https://drive.google.com/file/d/1X10hdNje08le4_F2iDjq4WmDkIz1nL5A/view?usp=drive_link)
+-[Diploma](https://drive.google.com/file/d/11VKE-MV7RsGCBckkX9tUDS6Rq3WkpJDy/view?usp=drive_link)  
 
 *Completo*
 
@@ -97,29 +97,29 @@ __Programación para testers__
 Curso básico de 3 hs.   
 [Certificado](https://udemy-certificate.s3.amazonaws.com/image/UC-1fa3a0a9-69df-4932-bf8e-19948dbec4c1.jpg)
 
-*Completo*
+_Completo_
 
 
 __SQL__  
 *Curso online de [Desafío Latam](https://desafiolatam.com/)*  
 Tutorial de SQL interactivo con certificación por módulo.
-[Consultas básicas](https://tutorial-sql.s3.amazonaws.com/certificates/434_Silvana%20_Loureiro%20/434_11102023.png)
-[Combinaciones y Subconsultas](https://tutorial-sql.s3.amazonaws.com/certificates/1106_Silvana%20_Loureiro%20/1106_31102023.png)
-[Consultas sobre datos agrupados](https://tutorial-sql.s3.amazonaws.com/certificates/638_Silvana%20_Loureiro%20/638_19102023.png)
-[Inserción, edición y eliminación de registros](https://tutorial-sql.s3.amazonaws.com/certificates/10376_Silvana%20_Loureiro%20/10376_27022024.png)
-[Consultas sobre datos agrupados](https://tutorial-sql.s3.amazonaws.com/certificates/10457_Silvana%20_Loureiro%20/10457_27022024.png)
-*Completo*
+-[Consultas básicas](https://tutorial-sql.s3.amazonaws.com/certificates/434_Silvana%20_Loureiro%20/434_11102023.png)
+-[Combinaciones y Subconsultas](https://tutorial-sql.s3.amazonaws.com/certificates/1106_Silvana%20_Loureiro%20/1106_31102023.png)
+-[Consultas sobre datos agrupados](https://tutorial-sql.s3.amazonaws.com/certificates/638_Silvana%20_Loureiro%20/638_19102023.png)
+-[Inserción, edición y eliminación de registros](https://tutorial-sql.s3.amazonaws.com/certificates/10376_Silvana%20_Loureiro%20/10376_27022024.png)
+-[Consultas sobre datos agrupados](https://tutorial-sql.s3.amazonaws.com/certificates/10457_Silvana%20_Loureiro%20/10457_27022024.png)
+_Completo_
 
 __Liderazgo con inteligencia emocional__  
 *Curso online de [LinkedIN](https://www.linkedin.com/learning/liderazgo-con-inteligencia-emocional-22700687/liderazgo-con-inteligencia-emocional)*  
 Identifica y aplica pautas concretas en la gestión de equipos y mejora tu productividad personal y laboral gracias a las últimas investigaciones en ciencia cognitiva.
 [Certificado](https://www.linkedin.com/learning/certificates/abd0a1dd889c973f056145635c5e7b299eed4e02dc2c50107d23e50f847a994b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BJtjB%2F6JmRZCAxOxiV4enRQ%3D%3D)
-*Completo*
+_Completo_
 
 __Paython__  
 *Curso online de [Marco Mendoza](https://www.udemy.com/user/mendoza-limon-marco-antonio/)*  
 Curso que cuenta con 4 partes.
-*Cursando*
+_Cursando_
 
 
 ## Proyectos realizados

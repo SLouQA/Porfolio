@@ -18,8 +18,6 @@ Mis habilidades están comprendidas por el testing manual y automatizado, así c
 
 Una de mis mayores motivaciones es la curiosidad por encontrar y optimizar los procesos de trabajo relacionados con el testing de software.
 
-Sumado a mis habilidades técnicas, también tengo mucho interés por el estudio de diferentes terapias holísticas y su aplicación tanto a nivel personal como laboral, permitiéndome generar comunicaciones empáticas y efectivas con clientes o compañeros de equipo.
-
 ## CV
 
 Puedes descargar mi CV directo desde mi Google Drive en formato [PDF aquí.](https://drive.google.com/file/d/1GC6ebzjpEN4y80_l6RA79XbUi86TO3Fj/view?usp=drive_link)
@@ -29,7 +27,7 @@ Puedes descargar mi CV directo desde mi Google Drive en formato [PDF aquí.](htt
 Puedes visualizar cómo fueron aplicados en diferentes proyectos en [proyectos realizados](#proyectos-realizados).
 
 __Manual testing__
-   * Estas pruebas se aplicaron en varias plataformas.
+   * Estas pruebas se aplicaron en varias plataformas (Web, Mobile y Desktop).
    * Las pruebas fueron a nivel de Usuario y Funcionales.
 
 __Análisis y diseño de casos de prueba__
@@ -46,7 +44,7 @@ __Análisis y diseño de casos de prueba__
 __Documentación__
   * Capaz de crear reportes de incidentes concisos y de valor en diferentes plataformas.
   * Capaz de crear Mapas mentales y flujos de datos.
-  * Capaz de asignar calificaciónes a los incidentes (Severidad, Prioridad, etc).
+  * Capaz de asignar calificaciones a los incidentes (Severidad, Prioridad, etc).
   * Generación de reportes de Testing Exploratorios completos.
   * Generación de informes completos.
   * Generación de informes con análisis de los incidentes Reportados/Solucionados/Pendientes por sprints.
@@ -59,7 +57,7 @@ __SQL__
 
 ## Herramientas
 
-__De gestión__
+__Gestión de incidencia__
   * Jira
   * Trello
   * Mantis BT
@@ -69,7 +67,7 @@ __Generación de CP combinación por pares__
 
 __SQL__
   * PostreSQL
-  * SQLite online
+  * SQLite
 
 __Emuladores__
   * BlueStacks 5
@@ -109,12 +107,12 @@ Tutorial de SQL interactivo con certificación por módulo.
  _Completo_
 
 __Liderazgo con inteligencia emocional__  
-*Curso online de [LinkedIN](https://www.linkedin.com/learning/liderazgo-con-inteligencia-emocional-22700687/liderazgo-con-inteligencia-emocional)*  
+*Curso online de [LinkedIn](https://www.linkedin.com/learning/liderazgo-con-inteligencia-emocional-22700687/liderazgo-con-inteligencia-emocional)*  
 Identifica y aplica pautas concretas en la gestión de equipos y mejora tu productividad personal y laboral gracias a las últimas investigaciones en ciencia cognitiva.  
  [Certificado](https://www.linkedin.com/learning/certificates/abd0a1dd889c973f056145635c5e7b299eed4e02dc2c50107d23e50f847a994b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BJtjB%2F6JmRZCAxOxiV4enRQ%3D%3D)  
  _Completo_
 
-__Paython__  
+__Python__  
 *Curso online de [Marco Mendoza](https://www.udemy.com/user/mendoza-limon-marco-antonio/)*  
  Curso que cuenta con 4 partes.  
  _Cursando_
@@ -130,25 +128,25 @@ __Paython__
 [Web](https://www.survio.com/es/) 
 *26/11/2023*
 * Como prueba final del curso del diploma Tester de Software (CES) se presentó:
-     * Presentar un informe completo de lo realizado.[Puedes descargar aquí.](https://drive.google.com/file/d/1j5mrW69OSZSa2gJW-0IRswRPwzCMaRs3/view?usp=drive_link)
-     * Crear un listado de Funcionalidades. [Puedes descargar aquí.](https://docs.google.com/spreadsheets/d/1CKKnK93xiCpLVsCzQT0IGJfXvuR2Enrm/edit?usp=drive_link&ouid=101018078137548223868&rtpof=true&sd=true)
-     * Diseñar y ejecutar casos de prueba para la funcionalidad "Crear nueva encuesta" los cuales fueron ralizados con máquina de estado. [Puedes descargar aquí.](https://docs.google.com/spreadsheets/d/1eJHZPZ8Ogl0uxVp86I5NUpo7AGeakvX-/edit?usp=drive_link&ouid=101018078137548223868&rtpof=true&sd=true)
-     * Ejecutar una sesión de Testing exploratorio. [Puedes descargar aquí.](https://drive.google.com/file/d/1b_nlXcQJv5i9JP3owVSQ1Cn3jMvCSWEb/view?usp=drive_link)
-     * Crear casos de prueba para las opciones avanzadas y básicas de una encuesta por medio de combinación por pares [Puedes descargar aquí.](https://drive.google.com/drive/folders/1WdTygqQrrKJhX-Gwu9oTirLSjBzX9S9s?usp=drive_link)
-     * Crear, modificar y hacer consultas en DB SQL. [Puedes descargar aquí.](https://drive.google.com/drive/folders/1SIL5KrJYzlkbMX3EVhfBKRsm5k1S8YWb?usp=drive_link)
-     * Crear un guión para automatizar la prueba "Dar de alta una encuesta" [Puedes descargar aquí.](https://drive.google.com/file/d/1oqq2NPeSM6HQ7YYCaXVZCj14O4tFPTeK/view?usp=drive_link)
-     * Reportar 3 de los bugs encontrados.[Puedes descargar aquí.](https://drive.google.com/drive/folders/1bMxNGkDwGjeRrso6GGtg7Z3F6zmwW8_e?usp=drive_link)
+     * Presentar un informe completo de lo realizado.[Descargar](https://drive.google.com/file/d/1j5mrW69OSZSa2gJW-0IRswRPwzCMaRs3/view?usp=drive_link)
+     * Crear un listado de Funcionalidades. [Descargar](https://docs.google.com/spreadsheets/d/1CKKnK93xiCpLVsCzQT0IGJfXvuR2Enrm/edit?usp=drive_link&ouid=101018078137548223868&rtpof=true&sd=true)
+     * Diseñar y ejecutar casos de prueba para la funcionalidad "Crear nueva encuesta" los cuales fueron ralizados con máquina de estado. [Descargar](https://docs.google.com/spreadsheets/d/1eJHZPZ8Ogl0uxVp86I5NUpo7AGeakvX-/edit?usp=drive_link&ouid=101018078137548223868&rtpof=true&sd=true)
+     * Ejecutar una sesión de Testing exploratorio. [Descargar](https://drive.google.com/file/d/1b_nlXcQJv5i9JP3owVSQ1Cn3jMvCSWEb/view?usp=drive_link)
+     * Crear casos de prueba para las opciones avanzadas y básicas de una encuesta por medio de combinación por pares [Descargar](https://drive.google.com/drive/folders/1WdTygqQrrKJhX-Gwu9oTirLSjBzX9S9s?usp=drive_link)
+     * Crear, modificar y hacer consultas en DB SQL. [Descargar](https://drive.google.com/drive/folders/1SIL5KrJYzlkbMX3EVhfBKRsm5k1S8YWb?usp=drive_link)
+     * Crear un guión para automatizar la prueba "Dar de alta una encuesta" [Descargar](https://drive.google.com/file/d/1oqq2NPeSM6HQ7YYCaXVZCj14O4tFPTeK/view?usp=drive_link)
+     * Reportar 3 de los bugs encontrados.[Descargar](https://drive.google.com/drive/folders/1bMxNGkDwGjeRrso6GGtg7Z3F6zmwW8_e?usp=drive_link)
   
 ### Calculadora para piscinas
 [APP](https://play.google.com/store/apps/details?id=com.israel.montero.fernando.calculadorapiscinas&hl=es_UY&gl=US&pli=1) 
 *18/06/2023*
 * Como prueba final del primer semestre en CES se presentó:
-    * Un informe completo de lo realizado. [Puedes descargar aquí.](https://drive.google.com/file/d/1F1zBYL5n5EEjOgh21P0jths2dFHZmTYv/view?usp=drive_link)
-    * Un informe del Testing exploratorio realizado. [Puedes descargar aquí.](https://drive.google.com/file/d/1ePgtQzAlbnwLO7T6_Aw3GnvbtMfX6V-L/view?usp=drive_link)
-    * Un Excel [(que puedes descargar aquí)](https://docs.google.com/spreadsheets/d/14NCFKIHVks6dbk2JhaBUgh36gDz3qbs8/edit?usp=drive_link&ouid=101018078137548223868&rtpof=true&sd=true)con:
+    * Un informe completo de lo realizado. [Descargar](https://drive.google.com/file/d/1F1zBYL5n5EEjOgh21P0jths2dFHZmTYv/view?usp=drive_link)
+    * Un informe del Testing exploratorio realizado. [Descargar](https://drive.google.com/file/d/1ePgtQzAlbnwLO7T6_Aw3GnvbtMfX6V-L/view?usp=drive_link)
+    * Un Excel (que puedes descargar [aquí)](https://docs.google.com/spreadsheets/d/14NCFKIHVks6dbk2JhaBUgh36gDz3qbs8/edit?usp=drive_link&ouid=101018078137548223868&rtpof=true&sd=true)con:
         * Inventario de funcionalidades (excluyendo las "premium")
         * Variables de la funcionalidad "Calcular el cloro"
         * Diseño y ejecución de casos de prueba con clases de equivalencia.
-    * Reportes en Mantis BT. [Puedes descargar aquí.](https://drive.google.com/drive/folders/1NRtKE8Y7w53Uuwn6rriW-uIloM-JLo3K?usp=drive_link) (Tienen imágenes y/o gif para mostrar los incidentes pero no se ve en el PDF)
-* Para este proyecto se utilizó Blue Stack 5 como emulador.
+    * Reportes en Mantis BT. [Descargar](https://drive.google.com/drive/folders/1NRtKE8Y7w53Uuwn6rriW-uIloM-JLo3K?usp=drive_link) (Las imágenes no se visualizan en el .pdf)
+* Para este proyecto se utilizó BlueStack 5 como emulador.
  

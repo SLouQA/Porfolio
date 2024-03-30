@@ -14,7 +14,7 @@
 
 ## Sobre mí 
 
-Mis habilidades están comprendidas por el testing manual y automatizado, así como la generación de documentación de requisitos funcionales. Lo anterior se complementa con más de diez años de experiencia en la industria de seguros, donde me especialicé en la utilización de diferentes software afines con el sector.
+Mis habilidades están comprendidas por el testing manual y automatizado, así como la generación de documentación de requisitos funcionales. 
 
 Una de mis mayores motivaciones es la curiosidad por encontrar y optimizar los procesos de trabajo relacionados con el testing de software.
 

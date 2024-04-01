@@ -20,7 +20,7 @@ Una de mis mayores motivaciones es la curiosidad por encontrar y optimizar los p
 
 ## CV
 
-Puedes descargar mi CV directo desde mi Google Drive en formato [PDF aquí.](https://drive.google.com/file/d/1GC6ebzjpEN4y80_l6RA79XbUi86TO3Fj/view?usp=drive_link)
+Puedes descargar mi CV directo desde mi Google Drive en formato [PDF aquí.](https://drive.google.com/file/d/1tYdudG8FNF99EngdkvkvTtKBQbP1AsBt/view?usp=drive_link)
 
 ## Skills
 

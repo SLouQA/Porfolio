@@ -122,7 +122,7 @@ __Python__
 
 ### NoCoutry
 *Actualmente*
-* Actualmente como proyecto de No Country estamos desarrollando una web para levantar tickets. (Se agregará más información al finalizar)
+* Actualmente como proyecto de [No Country](https://www.nocountry.tech/) estamos desarrollando una web para levantar tickets. (Se agregará más información al finalizar)
 
 ### Survio
 [Web](https://www.survio.com/es/) 

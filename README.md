@@ -9,6 +9,7 @@
   * [NoCountry](https://github.com/SLouQA/Porfolio?tab=readme-ov-file#nocoutry)
   * [Survio](#survio)
   * [Calculadora para piscinas](#calculadora-para-piscinas)
+  * [E Commerce Origami](#ecommerce-origami)
 
 
 
@@ -120,8 +121,12 @@ __Python__
 
 ## Proyectos realizados
 
+### E Commerce Origami
+*05/04 - Actualmente*
+* Estamos desarrollando una E Commerce de Origami. Se actualizará información a medida que el proyecto avance.
+
 ### NoCoutry
-*Actualmente*
+*25/03 - Actualmente*
 * Actualmente como proyecto de [No Country](https://www.nocountry.tech/) estamos desarrollando una web para levantar tickets. (Se agregará más información al finalizar)
 
 ### Survio

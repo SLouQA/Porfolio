@@ -38,6 +38,7 @@ __Análisis y diseño de casos de prueba__
   * Creación de casos de prueba con las técnicas:
       * Testing exploratorio.
       * Máquinas de estado.
+      * Árbol de decisiones.
       * Combinación por pares.
       * Clases de equivalencia y valores límite.
       * Guías para automatización de pruebas.

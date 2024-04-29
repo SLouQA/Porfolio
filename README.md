@@ -75,52 +75,51 @@ __SQL__
 
 __Editor y gestor de código__
 
-*  <img height="16" src="./Media/Herramientas-iconos/github.png" alt="Git"/> <span style="margin-left: 15px"> GitHub<span>
+*  <img height="16" src="./Media/Herramientas-iconos/github.png" alt="Git"/> &nbsp;&nbsp;&nbsp;&nbsp; GitHub
 
-* <img height="16" src="./Media/Herramientas-iconos/VSCode.png" alt="VSCode"/> <span style="margin-left: 15px">Visual Studio Code<span> <br/>
+* <img height="16" src="./Media/Herramientas-iconos/VSCode.png" alt="VSCode"/> &nbsp;&nbsp;&nbsp;&nbsp;Visual Studio Code <br/>
 <br/>
 
 __Automatización__
-* <img height="16" src="./Media/Herramientas-iconos/Selenium.png" alt="Selenium"/> <span style="margin-left: 15px">SeleniumIDE<span><br/>
+* <img height="16" src="./Media/Herramientas-iconos/Selenium.png" alt="Selenium"/> &nbsp;&nbsp;&nbsp;&nbsp;SeleniumIDE<br/>
 <br/>
 
 __API__
-* <img height="16" src="./Media/Herramientas-iconos/Postman.png" alt="Postman"/> <span style="margin-left: 15px">Postman<span><br/>
+* <img height="16" src="./Media/Herramientas-iconos/Postman.png" alt="Postman"/> &nbsp;&nbsp;&nbsp;&nbsp;Postman<br/>
 <br/>
 
 __Diseño__
-* <img height="16" src="./Media/Herramientas-iconos/figma.png" alt="figma"/> <span style="margin-left: 15px">Figma<span>
+* <img height="16" src="./Media/Herramientas-iconos/figma.png" alt="figma"/> &nbsp;&nbsp;&nbsp;&nbsp;Figma
 
-* <img height="16" src="./Media/Herramientas-iconos/Canva.png" alt="canva"/> <span style="margin-left: 15px">Canva<span><br/>
+* <img height="16" src="./Media/Herramientas-iconos/Canva.png" alt="canva"/> &nbsp;&nbsp;&nbsp;&nbsp;Canva<br/>
 <br/>
 
 __SQL__
-* <img height="16" src="./Media/Herramientas-iconos/postgre.png" alt="postgres"/> <span style="margin-left: 15px">PostreSQL<span>
+* <img height="16" src="./Media/Herramientas-iconos/postgre.png" alt="postgres"/>&nbsp;&nbsp;&nbsp;&nbsp;PostreSQL
 
-* <img height="16" src="./Media/Herramientas-iconos/sqlite.png" alt="SQLite"/> <span style="margin-left: 15px">SQLite<span> <br/>
+* <img height="16" src="./Media/Herramientas-iconos/sqlite.png" alt="SQLite"/>&nbsp;&nbsp;&nbsp;&nbsp;SQLite <br/>
 <br/>
 
  __Gestión de incidencia__
-* <img height="16" src="./Media/Herramientas-iconos/jira.png" alt="jira"/> <span style="margin-left: 15px">Jira<span>
+* <img height="16" src="./Media/Herramientas-iconos/jira.png" alt="jira"/> &nbsp;&nbsp;&nbsp;&nbsp;Jira
 
-* <img height="16" src="./Media/Herramientas-iconos/Trello.png" alt="trello"/> <span style="margin-left: 15px">Trello<span>
+* <img height="16" src="./Media/Herramientas-iconos/Trello.png" alt="trello"/> &nbsp;&nbsp;&nbsp;&nbsp;Trello
 
-* <img height="16" src="./Media/Herramientas-iconos/mantis.png" alt="mantis"/> <span style="margin-left: 15px">Mantis BT<span> <br/>
+* <img height="16" src="./Media/Herramientas-iconos/mantis.png" alt="mantis"/> &nbsp;&nbsp;&nbsp;&nbsp;Mantis BT <br/>
 <br/>
 
 __Generación de CP combinación por pares__
-* <img height="16" src="./Media/Herramientas-iconos/pict.png" alt="pict"/> <span style="margin-left: 15px">PICT online o escritorio<span><br/>
+* <img height="16" src="./Media/Herramientas-iconos/pict.png" alt="pict"/> &nbsp;&nbsp;&nbsp;&nbsp;PICT online o escritorio<br/>
 <br/>
 
 __Ofice__
-* <img height="16" src="./Media/Herramientas-iconos/Excel.png" alt="excel"/> <span style="margin-left: 15px">Excel Avanzado<span> <br/>
+* <img height="16" src="./Media/Herramientas-iconos/Excel.png" alt="excel"/> &nbsp;&nbsp;&nbsp;&nbsp;Excel Avanzado <br/>
 <br/>
 
 __Emuladores__
-* <img height="16" src="./Media/Herramientas-iconos/BlueStacks.png" alt="BS5"/> <span style="margin-left: 15px">BlueStacks 5<span> 
+* <img height="16" src="./Media/Herramientas-iconos/BlueStacks.png" alt="BS5"/> &nbsp;&nbsp;&nbsp;&nbsp;BlueStacks 5 
 
-
-
+<br/>
 
 
 ## Estudios IT
@@ -143,7 +142,7 @@ Curso básico de 3 hs.
 __SQL__  
 *Curso online de [Desafío Latam](https://desafiolatam.com/)*  
 Tutorial de SQL interactivo con certificación por módulo.  
- [Certificados](/Media/Diplomas/Certificados%20SQL.pdf)
+ [Certificados](/Media/Diplomas/Certificados%20SQL.pdf)<br/>
  _Completo_
 
 __Liderazgo con inteligencia emocional__  
@@ -165,7 +164,7 @@ __Python__
 * Estamos desarrollando una E Commerce de Origami. Se actualizará información a medida que el proyecto avance. <br/>
   [GitHub](https://github.com/PedroVegaDamian/Orimi) | 
 
-  <img height="16" src="./Media/Herramientas-iconos/jira.png" alt="jira"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/github.png" alt="Git"/>
+  <img height="16" src="./Media/Herramientas-iconos/jira.png" alt="jira"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/github.png" alt="Git"/>
 
 
 ### No Coutry
@@ -179,7 +178,7 @@ __Python__
 
     [GitHub](https://github.com/No-Country/c17-32-node-react) | [README](https://github.com/SLouQA/README-No-Country-c17-32)
 
-      <img height="16" src="./Media/Herramientas-iconos/figma.png" alt="figma"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/Postman.png" alt="Postman"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/Selenium.png" alt="Selenium"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/github.png" alt="Git"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/VSCode.png" alt="VSCode"/><span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/Trello.png" alt="trello"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/Excel.png" alt="excel"/> 
+      <img height="16" src="./Media/Herramientas-iconos/figma.png" alt="figma"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/Postman.png" alt="Postman"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/Selenium.png" alt="Selenium"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/github.png" alt="Git"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/VSCode.png" alt="VSCode"/>&nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/Trello.png" alt="trello"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/Excel.png" alt="excel"/> 
 
      #### 2 - Proyecto en proceso <br/>
      Comienza el 01/05
@@ -197,7 +196,7 @@ __Python__
      * Crear un guión para automatizar la prueba "Dar de alta una encuesta". | [.pdf](./Media/Proyectos/Survio/6%20_%20Guión%20de%20automatización/Guion_PruebaFinal_SLoureiro.pdf)
      * Reportar 3 de los bugs de los encontrados. | [.pdf](./Media/Proyectos/Survio/Insidentes/Bugs.pdf)
 
-     <img height="16" src="./Media/Herramientas-iconos/pict.png" alt="pict"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/postgre.png" alt="postgres"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/Selenium.png" alt="Selenium"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/mantis.png" alt="mantis"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/Excel.png" alt="excel"/> 
+     <img height="16" src="./Media/Herramientas-iconos/pict.png" alt="pict"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/postgre.png" alt="postgres"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/Selenium.png" alt="Selenium"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/mantis.png" alt="mantis"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/Excel.png" alt="excel"/> 
   
 ### Calculadora para piscinas
 [APP](https://play.google.com/store/apps/details?id=com.israel.montero.fernando.calculadorapiscinas&hl=es_UY&gl=US&pli=1) 
@@ -209,7 +208,7 @@ __Python__
         * Inventario de funcionalidades (excluyendo las "premium")
         * Variables de la funcionalidad "Calcular el cloro"
         * Diseño y ejecución de casos de prueba con clases de equivalencia.
-    * Reportes en Mantis BT. [.pdf](./Media/Proyectos/Calculadora/Bugs.pdf) (Las imágenes no se visualizan en el .pdf)
+    * Reportes en Mantis BT. | [.pdf](./Media/Proyectos/Calculadora/Bugs.pdf) (Las imágenes no se visualizan.)
 
-     <img height="16" src="./Media/Herramientas-iconos/BlueStacks.png" alt="BS5"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/mantis.png" alt="mantis"/> 
+     <img height="16" src="./Media/Herramientas-iconos/BlueStacks.png" alt="BS5"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/mantis.png" alt="mantis"/> 
  

@@ -162,8 +162,7 @@ __Python__
 
 ### Orimi
 *05/04 - Actualmente*
-* Estamos desarrollando una E Commerce de Origami. Se actualizará información a medida que el proyecto avance.
-
+* Estamos desarrollando una E Commerce de Origami. Se actualizará información a medida que el proyecto avance. <br/>
   [GitHub](https://github.com/PedroVegaDamian/Orimi) | 
 
   <img height="16" src="./Media/Herramientas-iconos/jira.png" alt="jira"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/github.png" alt="Git"/>
@@ -176,8 +175,8 @@ __Python__
     #### 1 - Nexus IT Service <br/>
     Es una web que busca agilizar la gestión entre clientes, operarios y administradores de una empresa (Nexus) que brinda outsourcing de sistemas IT. Fin del proyecto 26 de abril 2024.
 
-    Mi rol fue de QA Manual y SCRUM Master. La documentación del testeo se encuentra en el GitHub.
-gi
+    Mi rol fue de QA Manual y SCRUM Master. La documentación del testeo se encuentra en el GitHub.<br/>
+
     [GitHub](https://github.com/No-Country/c17-32-node-react) | [README](https://github.com/SLouQA/README-No-Country-c17-32)
 
       <img height="16" src="./Media/Herramientas-iconos/figma.png" alt="figma"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/Postman.png" alt="Postman"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/Selenium.png" alt="Selenium"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/github.png" alt="Git"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/VSCode.png" alt="VSCode"/><span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/Trello.png" alt="trello"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/Excel.png" alt="excel"/> 

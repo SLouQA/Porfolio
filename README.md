@@ -74,45 +74,47 @@ __SQL__
 ## Herramientas
 
 __Editor y gestor de código__
-* <img height="16" src="./Media/Herramientas-iconos/github.png" alt="Git"/> <span style="margin-left: 15px"> GitHub<span>
 
-* <img height="16" src="./Media/Herramientas-iconos/VSCode.png" alt="VSCode"/> <span style="margin-left: 15px">Visual Studio Code<span> 
+*  <img height="16" src="./Media/Herramientas-iconos/github.png" alt="Git"/> <span style="margin-left: 15px"> GitHub<span>
 
+* <img height="16" src="./Media/Herramientas-iconos/VSCode.png" alt="VSCode"/> <span style="margin-left: 15px">Visual Studio Code<span> <br/>
+<br/>
 
 __Automatización__
-* <img height="16" src="./Media/Herramientas-iconos/Selenium.png" alt="Selenium"/> <span style="margin-left: 15px">SeleniumIDE<span>
-
+* <img height="16" src="./Media/Herramientas-iconos/Selenium.png" alt="Selenium"/> <span style="margin-left: 15px">SeleniumIDE<span><br/>
+<br/>
 
 __API__
-* <img height="16" src="./Media/Herramientas-iconos/Postman.png" alt="Postman"/> <span style="margin-left: 15px">Postman<span>
-
+* <img height="16" src="./Media/Herramientas-iconos/Postman.png" alt="Postman"/> <span style="margin-left: 15px">Postman<span><br/>
+<br/>
 
 __Diseño__
 * <img height="16" src="./Media/Herramientas-iconos/figma.png" alt="figma"/> <span style="margin-left: 15px">Figma<span>
 
-* <img height="16" src="./Media/Herramientas-iconos/Canva.png" alt="canva"/> <span style="margin-left: 15px">Canva<span>
-
+* <img height="16" src="./Media/Herramientas-iconos/Canva.png" alt="canva"/> <span style="margin-left: 15px">Canva<span><br/>
+<br/>
 
 __SQL__
 * <img height="16" src="./Media/Herramientas-iconos/postgre.png" alt="postgres"/> <span style="margin-left: 15px">PostreSQL<span>
 
-* <img height="16" src="./Media/Herramientas-iconos/sqlite.png" alt="SQLite"/> <span style="margin-left: 15px">SQLite<span> 
-
+* <img height="16" src="./Media/Herramientas-iconos/sqlite.png" alt="SQLite"/> <span style="margin-left: 15px">SQLite<span> <br/>
+<br/>
 
  __Gestión de incidencia__
 * <img height="16" src="./Media/Herramientas-iconos/jira.png" alt="jira"/> <span style="margin-left: 15px">Jira<span>
 
 * <img height="16" src="./Media/Herramientas-iconos/Trello.png" alt="trello"/> <span style="margin-left: 15px">Trello<span>
 
-* <img height="16" src="./Media/Herramientas-iconos/mantis.png" alt="mantis"/> <span style="margin-left: 15px">Mantis BT<span> 
-
+* <img height="16" src="./Media/Herramientas-iconos/mantis.png" alt="mantis"/> <span style="margin-left: 15px">Mantis BT<span> <br/>
+<br/>
 
 __Generación de CP combinación por pares__
-* <img height="16" src="./Media/Herramientas-iconos/pict.png" alt="pict"/> <span style="margin-left: 15px">PICT online o escritorio<span>
+* <img height="16" src="./Media/Herramientas-iconos/pict.png" alt="pict"/> <span style="margin-left: 15px">PICT online o escritorio<span><br/>
+<br/>
 
 __Ofice__
-* <img height="16" src="./Media/Herramientas-iconos/Excel.png" alt="excel"/> <span style="margin-left: 15px">Excel Avanzado<span> 
-
+* <img height="16" src="./Media/Herramientas-iconos/Excel.png" alt="excel"/> <span style="margin-left: 15px">Excel Avanzado<span> <br/>
+<br/>
 
 __Emuladores__
 * <img height="16" src="./Media/Herramientas-iconos/BlueStacks.png" alt="BS5"/> <span style="margin-left: 15px">BlueStacks 5<span> 

@@ -1,0 +1,16 @@
+Encuesta activa: On, Off
+D Encuesta: On, Off
+FD Inicio: N/A, Hoy, >Hoy
+FD Fin: N/A, '=FD Inicio, >FD Inicio
+Idioma: Cestina, Deutsch, English, Espanol, Francais, Italiano, Magyar, Nederlands, Norsk, Polski, Portugues, Pyccknn, Romana, Slovencina, Suomi, Svenska
+Envios multiples: On, Off
+Desplazamiento aut:On, Off
+Volver preg anterior: On, Off
+Numeros preg: On, Off
+Notificaciones: On, Off
+
+IF [Encuesta activa] = "Off" AND [FD Inicio] <> ">Hoy" THEN [D Encuesta] = "Off";
+
+
+IF [D Encuesta] = "Off" THEN [FD Inicio] = "N/A" AND [FD Fin] = "N/A" 
+ELSE [FD Inicio] <> "N/A" AND [FD Fin] <> "N/A";

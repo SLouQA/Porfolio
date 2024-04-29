@@ -1,3 +1,8 @@
+<p aling="center">
+  <img  height="300" src="./Media/Nombre.svg" alt="Silvana Loureiro"/>
+</p>
+
+
 
 # Porfolio
 - [Sobre mí](https://github.com/SLouQA/Porfolio?tab=readme-ov-file#sobre-m%C3%AD)

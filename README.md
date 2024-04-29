@@ -1,23 +1,28 @@
-<p aling="center">
-  <img  height="300" src="./Media/Nombre.svg" alt="Silvana Loureiro"/>
+<p align="center">
+  <img  height="300" src="./Media/Nombre.png" alt="Silvana Loureiro"/>
 </p>
 
-
+<br/>
+<br/>
 
 # Porfolio
-- [Sobre mí](https://github.com/SLouQA/Porfolio?tab=readme-ov-file#sobre-m%C3%AD)
+- [Sobre mí](#sobre-mí)
 - [CV](#cv)
 - [Skills](#skills)
 - [Herramientas](#herramientas)
 - [Estudios IT](#estudios-it)
+- [Cursos](#cursos)
 - [Proyectos realizados](#proyectos-realizados)
-  * [E Commerce Origami](#e-commerce-origami)
-  * [NoCountry](https://github.com/SLouQA/Porfolio?tab=readme-ov-file#nocoutry)
+  * [Orimi](#Orimi)
+  * [No Country](#nocoutry) <br/>
+      1- [Nexus IT Service](#1---nexus-it-service) <br/>
+      2- [Proyecto en proceso](#2---proyecto-en-proceso)
   * [Survio](#survio)
   * [Calculadora para piscinas](#calculadora-para-piscinas)
 
-
-
+<br/>
+<br/>
+<br/>
 
 ## Sobre mí 
 
@@ -25,9 +30,11 @@ Mis habilidades están comprendidas por el testing manual y automatizado, así c
 
 Una de mis mayores motivaciones es la curiosidad por encontrar y optimizar los procesos de trabajo relacionados con el testing de software.
 
+<img  height="16" src="./Media/Herramientas-iconos/LIN-16x16.png" alt="LIn"/>  [silvana-loureiro](https://www.linkedin.com/in/silvana-loureiro/)
+
 ## CV
 
-Puedes descargar mi CV directo desde mi Google Drive en formato [PDF aquí.](https://drive.google.com/file/d/1Kpbk5FVFRJxQhKTxH_sDjfH62prPTN00/view?usp=sharing)
+Puedes descargar mi CV directo desde mi Google Drive en formato [PDF aquí.](./Media/QA%20Silvana%20Loureiro%202024.pdf)
 
 ## Skills
 
@@ -65,53 +72,75 @@ __SQL__
 
 ## Herramientas
 
-__Gestión de incidencia__
-  * Jira
-  * Trello
-  * Mantis BT
+__Editor y gestor de código__
+* <img height="16" src="./Media/Herramientas-iconos/github.png" alt="Git"/> <span style="margin-left: 15px"> GitHub<span>
 
-__Generación de CP combinación por pares__
-  * PICT online o escritorio
+* <img height="16" src="./Media/Herramientas-iconos/VSCode.png" alt="VSCode"/> <span style="margin-left: 15px">Visual Studio Code<span> 
 
-__SQL__
-  * PostreSQL
-  * SQLite
-
-__Emuladores__
-  * BlueStacks 5
 
 __Automatización__
-  * SeleniumIDE
+* <img height="16" src="./Media/Herramientas-iconos/Selenium.png" alt="Selenium"/> <span style="margin-left: 15px">SeleniumIDE<span>
 
-__Editor y gestor de código__
-  * GitHub.
-  * Visual Studio Code
+
+__API__
+* <img height="16" src="./Media/Herramientas-iconos/Postman.png" alt="Postman"/> <span style="margin-left: 15px">Postman<span>
+
+
+__Diseño__
+* <img height="16" src="./Media/Herramientas-iconos/figma.png" alt="figma"/> <span style="margin-left: 15px">Figma<span>
+
+* <img height="16" src="./Media/Herramientas-iconos/Canva.png" alt="canva"/> <span style="margin-left: 15px">Canva<span>
+
+
+__SQL__
+* <img height="16" src="./Media/Herramientas-iconos/postgre.png" alt="postgres"/> <span style="margin-left: 15px">PostreSQL<span>
+
+* <img height="16" src="./Media/Herramientas-iconos/sqlite.png" alt="SQLite"/> <span style="margin-left: 15px">SQLite<span> 
+
+
+ __Gestión de incidencia__
+* <img height="16" src="./Media/Herramientas-iconos/jira.png" alt="jira"/> <span style="margin-left: 15px">Jira<span>
+
+* <img height="16" src="./Media/Herramientas-iconos/Trello.png" alt="trello"/> <span style="margin-left: 15px">Trello<span>
+
+* <img height="16" src="./Media/Herramientas-iconos/mantis.png" alt="mantis"/> <span style="margin-left: 15px">Mantis BT<span> 
+
+
+__Generación de CP combinación por pares__
+* <img height="16" src="./Media/Herramientas-iconos/pict.png" alt="pict"/> <span style="margin-left: 15px">PICT online o escritorio<span>
+
+__Ofice__
+* <img height="16" src="./Media/Herramientas-iconos/Excel.png" alt="excel"/> <span style="margin-left: 15px">Excel Avanzado<span> 
+
+
+__Emuladores__
+* <img height="16" src="./Media/Herramientas-iconos/BlueStacks.png" alt="BS5"/> <span style="margin-left: 15px">BlueStacks 5<span> 
+
+
+
+
 
 ## Estudios IT
 
 __Tester de Software__  
 *03/2023 - 12/2023 · Centro de Ensayos de Software*  
 Curso anual completo, en la Escolaridad se puede observar también el programa.  
- [Escolaridad](https://drive.google.com/file/d/1X10hdNje08le4_F2iDjq4WmDkIz1nL5A/view?usp=drive_link)  
- [Diploma](https://drive.google.com/file/d/11VKE-MV7RsGCBckkX9tUDS6Rq3WkpJDy/view?usp=drive_link)   
+ [Escolaridad](/Media/Escolaridad.pdf) | [Diploma](/Media/Diplomas/ProgramaciónTesters.jpg)   
  *Completo*
 
 
+## Cursos
 __Programación para testers__  
 *Curso online de [The Free Ranger Tester](https://www.udemy.com/user/patricio-miner/) · Udemy*  
 Curso básico de 3 hs.    
- [Certificado](https://udemy-certificate.s3.amazonaws.com/image/UC-1fa3a0a9-69df-4932-bf8e-19948dbec4c1.jpg)    
+ [Certificado](/Media/Diplomas/ProgramaciónTesters.jpg)    
  _Completo_
 
 
 __SQL__  
 *Curso online de [Desafío Latam](https://desafiolatam.com/)*  
 Tutorial de SQL interactivo con certificación por módulo.  
- [Consultas básicas](https://tutorial-sql.s3.amazonaws.com/certificates/434_Silvana%20_Loureiro%20/434_11102023.png)    
- [Combinaciones y Subconsultas](https://tutorial-sql.s3.amazonaws.com/certificates/1106_Silvana%20_Loureiro%20/1106_31102023.png)    
- [Consultas sobre datos agrupados](https://tutorial-sql.s3.amazonaws.com/certificates/638_Silvana%20_Loureiro%20/638_19102023.png)   
- [Inserción, edición y eliminación de registros](https://tutorial-sql.s3.amazonaws.com/certificates/10376_Silvana%20_Loureiro%20/10376_27022024.png)   
- [Consultas sobre datos agrupados](https://tutorial-sql.s3.amazonaws.com/certificates/10457_Silvana%20_Loureiro%20/10457_27022024.png)   
+ [Certificados](/Media/Diplomas/Certificados%20SQL.pdf)
  _Completo_
 
 __Liderazgo con inteligencia emocional__  
@@ -128,37 +157,57 @@ __Python__
 
 ## Proyectos realizados
 
-### E Commerce Origami
+### Orimi
 *05/04 - Actualmente*
 * Estamos desarrollando una E Commerce de Origami. Se actualizará información a medida que el proyecto avance.
 
-### NoCoutry
+  [GitHub](https://github.com/PedroVegaDamian/Orimi) | 
+
+  <img height="16" src="./Media/Herramientas-iconos/jira.png" alt="jira"/>
+
+
+### No Coutry
 *25/03 - Actualmente*
-* Actualmente como proyecto de [No Country](https://www.nocountry.tech/) estamos desarrollando una web para levantar tickets. (Se agregará más información al finalizar)
+*  [No Country](https://www.nocountry.tech/) es un simulador laboral de 5 semanas cada proyecto.
+
+    #### 1 - Nexus IT Service <br/>
+    Es una web que busca agilizar la gestión entre clientes, operarios y administradores de una empresa (Nexus) que brinda outsourcing de sistemas IT. Fin del proyecto 26 de abril 2024.
+
+    Mi rol fue de QA Manual y SCRUM Master. La documentación del testeo se encuentra en el GitHub.
+
+    [GitHub](https://github.com/No-Country/c17-32-node-react) | [README](https://github.com/SLouQA/README-No-Country-c17-32)
+
+      <img height="16" src="./Media/Herramientas-iconos/figma.png" alt="figma"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/Postman.png" alt="Postman"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/Selenium.png" alt="Selenium"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/github.png" alt="Git"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/VSCode.png" alt="VSCode"/><span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/Trello.png" alt="trello"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/Excel.png" alt="excel"/> 
+
+     #### 2 - Proyecto en proceso <br/>
+     Comienza el 01/05
 
 ### Survio
 [Web](https://www.survio.com/es/) 
 *26/11/2023*
 * Como prueba final del curso del diploma Tester de Software (CES) se presentó:
-     * Presentar un informe completo de lo realizado.[Descargar](https://drive.google.com/file/d/1j5mrW69OSZSa2gJW-0IRswRPwzCMaRs3/view?usp=drive_link)
-     * Crear un listado de Funcionalidades. [Descargar](https://docs.google.com/spreadsheets/d/1CKKnK93xiCpLVsCzQT0IGJfXvuR2Enrm/edit?usp=drive_link&ouid=101018078137548223868&rtpof=true&sd=true)
-     * Diseñar y ejecutar casos de prueba para la funcionalidad "Crear nueva encuesta" los cuales fueron ralizados con máquina de estado. [Descargar](https://docs.google.com/spreadsheets/d/1eJHZPZ8Ogl0uxVp86I5NUpo7AGeakvX-/edit?usp=drive_link&ouid=101018078137548223868&rtpof=true&sd=true)
-     * Ejecutar una sesión de Testing exploratorio. [Descargar](https://drive.google.com/file/d/1b_nlXcQJv5i9JP3owVSQ1Cn3jMvCSWEb/view?usp=drive_link)
-     * Crear casos de prueba para las opciones avanzadas y básicas de una encuesta por medio de combinación por pares [Descargar](https://drive.google.com/drive/folders/1WdTygqQrrKJhX-Gwu9oTirLSjBzX9S9s?usp=drive_link)
-     * Crear, modificar y hacer consultas en DB SQL. [Descargar](https://drive.google.com/drive/folders/1SIL5KrJYzlkbMX3EVhfBKRsm5k1S8YWb?usp=drive_link)
-     * Crear un guión para automatizar la prueba "Dar de alta una encuesta" [Descargar](https://drive.google.com/file/d/1oqq2NPeSM6HQ7YYCaXVZCj14O4tFPTeK/view?usp=drive_link)
-     * Reportar 3 de los bugs encontrados.[Descargar](https://drive.google.com/drive/folders/1bMxNGkDwGjeRrso6GGtg7Z3F6zmwW8_e?usp=drive_link)
+     * Presentar un informe completo de lo realizado. | [.pdf](./Media/Proyectos/Survio/Informe_%20PruebaFinal_SLoureiro.pdf)
+     * Crear un listado de Funcionalidades. | [.xls](./Media/Proyectos/Survio/1%20_%20Inventario%20de%20Funcionalidades/Prueba%20final_Inventario%20de%20Funcionalidades_SLoureiro.xlsx)
+     * Diseñar y ejecutar casos de prueba para la funcionalidad "Crear nueva encuesta" los cuales fueron ralizados con máquina de estado. | [.xls](./Media/Proyectos/Survio/2%20_%20Máquina%20de%20estado/Tabla%20de%20transición%20y%20CP_SLoureiro.xlsx)
+     * Ejecutar una sesión de Testing exploratorio. | [.doc](./Media/Proyectos/Survio/3%20_%20Testing%20Exploratorio/Sesión%20ET_%20SLoureiro.docx)
+     * Crear casos de prueba para las opciones avanzadas y básicas de una encuesta por medio de combinación por pares. | [.txt](./Media/Proyectos/Survio/4%20_%20Comb.%20por%20pares/Entrada_SLoureiro.txt) | [.xls](./Media/Proyectos/Survio/4%20_%20Comb.%20por%20pares/Salida_SLoureiro.xlsx)
+     * Crear, modificar y hacer consultas en DB SQL. | [.pdf](./Media/Proyectos/Survio) | [.sql](./Media/Proyectos/Survio/5%20_%20SQL/SQLite.sql)
+     * Crear un guión para automatizar la prueba "Dar de alta una encuesta". | [.pdf](./Media/Proyectos/Survio/6%20_%20Guión%20de%20automatización/Guion_PruebaFinal_SLoureiro.pdf)
+     * Reportar 3 de los bugs de los encontrados. | [.pdf](./Media/Proyectos/Survio/Insidentes/Bugs.pdf)
+
+     <img height="16" src="./Media/Herramientas-iconos/pict.png" alt="pict"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/postgre.png" alt="postgres"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/Selenium.png" alt="Selenium"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/mantis.png" alt="mantis"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/Excel.png" alt="excel"/> 
   
 ### Calculadora para piscinas
 [APP](https://play.google.com/store/apps/details?id=com.israel.montero.fernando.calculadorapiscinas&hl=es_UY&gl=US&pli=1) 
 *18/06/2023*
 * Como prueba final del primer semestre en CES se presentó:
-    * Un informe completo de lo realizado. [Descargar](https://drive.google.com/file/d/1F1zBYL5n5EEjOgh21P0jths2dFHZmTYv/view?usp=drive_link)
-    * Un informe del Testing exploratorio realizado. [Descargar](https://drive.google.com/file/d/1ePgtQzAlbnwLO7T6_Aw3GnvbtMfX6V-L/view?usp=drive_link)
-    * Un Excel (que puedes descargar [aquí)](https://docs.google.com/spreadsheets/d/14NCFKIHVks6dbk2JhaBUgh36gDz3qbs8/edit?usp=drive_link&ouid=101018078137548223868&rtpof=true&sd=true) con:
+    * Un informe completo de lo realizado. | [.pdf](./Media/Proyectos/Calculadora/Informe%20prueba%20final_SLoureiro.pdf)
+    * Un informe del Testing exploratorio realizado. | [.pdf](./Media/Proyectos/Calculadora/ET_Calculo%20floculante%20líquido_SLoureiro.pdf)
+    * Un [Excel](./Media/Proyectos/Calculadora/Prueba%20final_Inventario%20de%20Funcionalidades_SLoureiro.xlsx) con:
         * Inventario de funcionalidades (excluyendo las "premium")
         * Variables de la funcionalidad "Calcular el cloro"
         * Diseño y ejecución de casos de prueba con clases de equivalencia.
-    * Reportes en Mantis BT. [Descargar](https://drive.google.com/drive/folders/1NRtKE8Y7w53Uuwn6rriW-uIloM-JLo3K?usp=drive_link) (Las imágenes no se visualizan en el .pdf)
-* Para este proyecto se utilizó BlueStack 5 como emulador.
+    * Reportes en Mantis BT. [.pdf](./Media/Proyectos/Calculadora/Bugs.pdf) (Las imágenes no se visualizan en el .pdf)
+
+     <img height="16" src="./Media/Herramientas-iconos/BlueStacks.png" alt="BS5"/> <span style="margin-left: 15px"> <img height="16" src="./Media/Herramientas-iconos/mantis.png" alt="mantis"/> 
  

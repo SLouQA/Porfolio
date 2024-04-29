@@ -35,7 +35,7 @@ Una de mis mayores motivaciones es la curiosidad por encontrar y optimizar los p
 
 Puedes descargar mi CV en [PDF aquí.](./Media/QA%20Silvana%20Loureiro%202024.pdf)
 
-<img  height="16" src="./Media/Herramientas-iconos/LIN-16x16.png" alt="LIn"/>  [silvana-loureiro](https://www.linkedin.com/in/silvana-loureiro/)
+<img  height="16" src="./Media/Herramientas-iconos/LIN-16x16.png" alt="LIn"/> &nbsp;&nbsp;&nbsp;[silvana-loureiro](https://www.linkedin.com/in/silvana-loureiro/)
 
 ## Skills
 

@@ -3,7 +3,6 @@
 </p>
 
 <br/>
-<br/>
 
 # Porfolio
 - [Sobre mí](#sobre-mí)
@@ -30,11 +29,13 @@ Mis habilidades están comprendidas por el testing manual y automatizado, así c
 
 Una de mis mayores motivaciones es la curiosidad por encontrar y optimizar los procesos de trabajo relacionados con el testing de software.
 
-<img  height="16" src="./Media/Herramientas-iconos/LIN-16x16.png" alt="LIn"/>  [silvana-loureiro](https://www.linkedin.com/in/silvana-loureiro/)
+
 
 ## CV
 
-Puedes descargar mi CV directo desde mi Google Drive en formato [PDF aquí.](./Media/QA%20Silvana%20Loureiro%202024.pdf)
+Puedes descargar mi CV en [PDF aquí.](./Media/QA%20Silvana%20Loureiro%202024.pdf)
+
+<img  height="16" src="./Media/Herramientas-iconos/LIN-16x16.png" alt="LIn"/>  [silvana-loureiro](https://www.linkedin.com/in/silvana-loureiro/)
 
 ## Skills
 
@@ -163,7 +164,7 @@ __Python__
 
   [GitHub](https://github.com/PedroVegaDamian/Orimi) | 
 
-  <img height="16" src="./Media/Herramientas-iconos/jira.png" alt="jira"/>
+  <img height="16" src="./Media/Herramientas-iconos/jira.png" alt="jira"/> <span style="margin-left: 15px"> git<img height="16" src="./Media/Herramientas-iconos/github.png" alt="Git"/>
 
 
 ### No Coutry

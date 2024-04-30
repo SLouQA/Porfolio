@@ -108,7 +108,7 @@ __SQL__
 * <img height="16" src="./Media/Herramientas-iconos/mantis.png" alt="mantis"/> &nbsp;&nbsp;&nbsp;&nbsp;Mantis BT <br/>
 <br/>
 
-__Generación de CP combinación por pares__
+__Generación de CP con combinación por pares__
 * <img height="16" src="./Media/Herramientas-iconos/pict.png" alt="pict"/> &nbsp;&nbsp;&nbsp;&nbsp;PICT online o escritorio<br/>
 <br/>
 
@@ -163,7 +163,7 @@ __Python__
 *04/2024 - Actualmente*
 * Estamos desarrollando una plataforma e-commerce de Origami.<br/> 
 Proyecto en progreso... <br/>
-  [GitHub](https://github.com/PedroVegaDamian/Orimi) | 
+  [GitHub](https://github.com/PedroVegaDamian/Orimi)  
 
   <img height="16" src="./Media/Herramientas-iconos/jira.png" alt="jira"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/github.png" alt="Git"/>
 

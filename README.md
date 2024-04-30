@@ -1,5 +1,5 @@
 <p align="center">
-  <img  height="300" src="./Media/Nombre.png" alt="Silvana Loureiro"/>
+  <img  height="200" src="./Media/Nombre.png" alt="Silvana Loureiro"/>
 </p>
 
 <br/>
@@ -35,7 +35,7 @@ Una de mis mayores motivaciones es la curiosidad por encontrar y optimizar los p
 
 Puedes descargar mi CV en [PDF aquí.](./Media/QA%20Silvana%20Loureiro%202024.pdf)
 
-<img  height="16" src="./Media/Herramientas-iconos/LIN-16x16.png" alt="LIn"/> &nbsp;&nbsp;&nbsp;[silvana-loureiro](https://www.linkedin.com/in/silvana-loureiro/)
+<img  height="16" src="./Media/Herramientas-iconos/LIn.png" alt="LIn"/> &nbsp;&nbsp;&nbsp;[silvana-loureiro](https://www.linkedin.com/in/silvana-loureiro/)
 
 ## Skills
 
@@ -58,16 +58,16 @@ __Análisis y diseño de casos de prueba__
 
 
 __Documentación__
-  * Capaz de crear reportes de incidentes concisos y de valor en diferentes plataformas.
-  * Capaz de crear Mapas mentales y flujos de datos.
-  * Capaz de asignar calificaciones a los incidentes (Severidad, Prioridad, etc).
-  * Generación de reportes de Testing Exploratorios completos.
-  * Generación de informes completos.
-  * Generación de informes con análisis de los incidentes Reportados/Solucionados/Pendientes por sprints.
+  * Creación de reportes de incidentes concisos y de valor en diferentes plataformas.
+  * Creación de Mapas mentales y flujos de datos.
+  * Asignación de calificaciones a los incidentes (Severidad, Prioridad, etc).
+  * Creación de reportes de Testing Exploratorios completos.
+  * Creación de informes completos.
+  * Creación de informes con análisis de los incidentes Reportados/Solucionados/Pendientes por sprints.
 
 __SQL__
-  * Capaz de generar consultas complejas con sub-consultas
-  * Capaz de crear y modificar conjuntos de tablas.
+  * Creación de  consultas complejas con sub-consultas
+  * Creación y modificación de conjuntos de tablas.
   * Utilización de diferentes plataformas.
 
 
@@ -100,7 +100,7 @@ __SQL__
 * <img height="16" src="./Media/Herramientas-iconos/sqlite.png" alt="SQLite"/>&nbsp;&nbsp;&nbsp;&nbsp;SQLite <br/>
 <br/>
 
- __Gestión de incidencia__
+ __Gestión de incidencias__
 * <img height="16" src="./Media/Herramientas-iconos/jira.png" alt="jira"/> &nbsp;&nbsp;&nbsp;&nbsp;Jira
 
 * <img height="16" src="./Media/Herramientas-iconos/Trello.png" alt="trello"/> &nbsp;&nbsp;&nbsp;&nbsp;Trello
@@ -160,32 +160,36 @@ __Python__
 ## Proyectos realizados
 
 ### Orimi
-*05/04 - Actualmente*
-* Estamos desarrollando una E Commerce de Origami. Se actualizará información a medida que el proyecto avance. <br/>
+*04/2024 - Actualmente*
+* Estamos desarrollando una plataforma e-commerce de Origami.<br/> 
+Proyecto en progreso... <br/>
   [GitHub](https://github.com/PedroVegaDamian/Orimi) | 
 
   <img height="16" src="./Media/Herramientas-iconos/jira.png" alt="jira"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/github.png" alt="Git"/>
 
 
 ### No Coutry
-*25/03 - Actualmente*
+*03/2024 - Actualmente*
 *  [No Country](https://www.nocountry.tech/) es un simulador laboral de 5 semanas cada proyecto.
 
-    #### 1 - Nexus IT Service <br/>
+    #### 1 - Nexus IT Service
+    03/2024 - 04/2024 <br/>
+
     Es una web que busca agilizar la gestión entre clientes, operarios y administradores de una empresa (Nexus) que brinda outsourcing de sistemas IT. Fin del proyecto 26 de abril 2024.
 
     Mi rol fue de QA Manual y SCRUM Master. La documentación del testeo se encuentra en el GitHub.<br/>
 
     [GitHub](https://github.com/No-Country/c17-32-node-react) | [README](https://github.com/SLouQA/README-No-Country-c17-32)
+    <br/>
 
       <img height="16" src="./Media/Herramientas-iconos/figma.png" alt="figma"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/Postman.png" alt="Postman"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/Selenium.png" alt="Selenium"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/github.png" alt="Git"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/VSCode.png" alt="VSCode"/>&nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/Trello.png" alt="trello"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/Excel.png" alt="excel"/> 
 
-     #### 2 - Proyecto en proceso <br/>
-     Comienza el 01/05
+    #### 2 - Proyecto en proceso <br/>
+     05/2024
 
 ### Survio
 [Web](https://www.survio.com/es/) 
-*26/11/2023*
+*11/2023*
 * Como prueba final del curso del diploma Tester de Software (CES) se presentó:
      * Presentar un informe completo de lo realizado. | [.pdf](./Media/Proyectos/Survio/Informe_%20PruebaFinal_SLoureiro.pdf)
      * Crear un listado de Funcionalidades. | [.xls](./Media/Proyectos/Survio/1%20_%20Inventario%20de%20Funcionalidades/Prueba%20final_Inventario%20de%20Funcionalidades_SLoureiro.xlsx)
@@ -200,7 +204,7 @@ __Python__
   
 ### Calculadora para piscinas
 [APP](https://play.google.com/store/apps/details?id=com.israel.montero.fernando.calculadorapiscinas&hl=es_UY&gl=US&pli=1) 
-*18/06/2023*
+*06/2023*
 * Como prueba final del primer semestre en CES se presentó:
     * Un informe completo de lo realizado. | [.pdf](./Media/Proyectos/Calculadora/Informe%20prueba%20final_SLoureiro.pdf)
     * Un informe del Testing exploratorio realizado. | [.pdf](./Media/Proyectos/Calculadora/ET_Calculo%20floculante%20líquido_SLoureiro.pdf)

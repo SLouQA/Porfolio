@@ -188,20 +188,18 @@ Proyecto en progreso... <br/>
     En mi rol de QA Manual:
      - Diseñé casos de prueba.
      - Ejecuté casos de prueba (Front y Back).
-     - Automaticé pruebas de regresión.
-  <br/>
-
-   En mi Rol como SCRUM Master:
+     - Automaticé pruebas de regresión. <br/>
+  
+    En mi Rol como SCRUM Master:
      - Creé el Trello para la organización del proyecto.
      - Di prioridad a las tareas.
      - Organicé el equipo para orientarlo a resultados.<br/> 
     
-      La documentación se encuentra en el GitHub.<br/>
+    La documentación se encuentra en GitHub. <br/>
 
-    [GitHub](https://github.com/No-Country/c17-32-node-react) | [README](https://github.com/SLouQA/README-No-Country-c17-32)
-    <br/>
-
-      <img height="16" src="./Media/Herramientas-iconos/figma.png" alt="figma"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/Postman.png" alt="Postman"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/Selenium.png" alt="Selenium"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/github.png" alt="Git"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/VSCode.png" alt="VSCode"/>&nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/Trello.png" alt="trello"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/Excel.png" alt="excel"/> 
+    [GitHub](https://github.com/No-Country/c17-32-node-react) | [README](https://github.com/SLouQA/README-No-Country-c17-32) <br/>
+   
+    <img height="16" src="./Media/Herramientas-iconos/figma.png" alt="figma"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/Postman.png" alt="Postman"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/Selenium.png" alt="Selenium"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/github.png" alt="Git"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/VSCode.png" alt="VSCode"/>&nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/Trello.png" alt="trello"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/Excel.png" alt="excel"/> 
 
  
 

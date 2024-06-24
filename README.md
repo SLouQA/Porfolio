@@ -1,5 +1,5 @@
 <p align="center">
-  <img  height="200" src="./Media/Nombre.png" alt="Silvana Loureiro"/>
+  <img  max-width: 100%; width="500px" src="./Media/Nombre.png" alt="Silvana Loureiro"/>
 </p>
 
 <br/>
@@ -12,10 +12,10 @@
 - [Estudios IT](#estudios-it)
 - [Cursos](#cursos)
 - [Proyectos realizados](#proyectos-realizados)
+  * [Sinfonia de Algoritmos](#Sinfonia-de-algoritmos)
+  * [PHIcode-woman](#PHIcode-woman)
   * [Orimi](#Orimi)
-  * [No Country](#nocoutry) <br/>
-      1- [Nexus IT Service](#1---nexus-it-service) <br/>
-      2- [Proyecto en proceso](#2---proyecto-en-proceso)
+  * [No Country](#No-Coutry) <br/>
   * [Survio](#survio)
   * [Calculadora para piscinas](#calculadora-para-piscinas)
 
@@ -33,9 +33,9 @@ Una de mis mayores motivaciones es la curiosidad por encontrar y optimizar los p
 
 ## CV
 
-Puedes descargar mi CV en [PDF aquí.](./Media/QA%20Silvana%20Loureiro%202024.pdf)
+Puedes descargar mi CV en [PDF aquí.](./Media/Silvana%20Loureiro%20QA%20%202024.pdf)
 
-<img  height="16" src="./Media/Herramientas-iconos/LIn.png" alt="LIn"/> &nbsp;&nbsp;&nbsp;[silvana-loureiro](https://www.linkedin.com/in/silvana-loureiro/)
+[<img alt="Linkedin" width="90px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/silvana-loureiro/)
 
 ## Skills
 
@@ -65,11 +65,6 @@ __Documentación__
   * Creación de informes completos.
   * Creación de informes con análisis de los incidentes Reportados/Solucionados/Pendientes por sprints.
 
-__SQL__
-  * Creación de  consultas complejas con sub-consultas
-  * Creación y modificación de conjuntos de tablas.
-  * Utilización de diferentes plataformas.
-
 
 ## Herramientas
 
@@ -86,7 +81,9 @@ __Automatización__
 
 __API__
 * <img height="16" src="./Media/Herramientas-iconos/Postman.png" alt="Postman"/> &nbsp;&nbsp;&nbsp;&nbsp;Postman<br/>
+* <img height="16" src="./Media/Herramientas-iconos/Swagger.png" alt="Swagger"/> &nbsp;&nbsp;&nbsp;&nbsp;Swagger<br/>
 <br/>
+
 
 __Diseño__
 * <img height="16" src="./Media/Herramientas-iconos/figma.png" alt="figma"/> &nbsp;&nbsp;&nbsp;&nbsp;Figma
@@ -159,33 +156,54 @@ __Python__
 
 ## Proyectos realizados
 
+### Sinfonia de algoritmos
+*06/2024 - Actualmente*
+* Proyecto relizado en voluntariado con [AuJ](https://www.adoptaunjunior.es/) para [Manfred](https://www.getmanfred.com/) en progreso... <br/>
+
+
+### PHIcode-woman
+*05/2024 - Actualmente*
+ 
+* Proyecto relizado en voluntariado con [AuJ](https://www.adoptaunjunior.es/) para [PHI Alliance](http://www.phialliance.org/) en progreso... <br/>
+
+
 ### Orimi
 *04/2024 - Actualmente*
 * Estamos desarrollando una plataforma e-commerce de Origami.<br/> 
 Proyecto en progreso... <br/>
-  [GitHub](https://github.com/PedroVegaDamian/Orimi)  
+  [GitHub](https://github.com/PedroVegaDamian/Orimi)&nbsp; |&nbsp; [Web](https://orimi-develop.vercel.app)
 
   <img height="16" src="./Media/Herramientas-iconos/jira.png" alt="jira"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/github.png" alt="Git"/>
 
 
 ### No Coutry
-*03/2024 - Actualmente*
+*03/2024 - 04/2024*
 *  [No Country](https://www.nocountry.tech/) es un simulador laboral de 5 semanas cada proyecto.
 
-    #### 1 - Nexus IT Service
+    Proyecto "Nexus IT Service" <br/>
     03/2024 - 04/2024 <br/>
 
-    Es una web que busca agilizar la gestión entre clientes, operarios y administradores de una empresa (Nexus) que brinda outsourcing de sistemas IT. Fin del proyecto 26 de abril 2024.
+    Es una web que busca agilizar la gestión entre clientes, operarios y administradores de una empresa (Nexus) que brinda outsourcing de sistemas IT. 
 
-    Mi rol fue de QA Manual y SCRUM Master. La documentación del testeo se encuentra en el GitHub.<br/>
+    En mi rol de QA Manual:
+     - Diseñé casos de prueba.
+     - Ejecuté casos de prueba (Front y Back).
+     - Automaticé pruebas de regresión.
+  <br/>
+
+   En mi Rol como SCRUM Master:
+     - Creé el Trello para la organización del proyecto.
+     - Di prioridad a las tareas.
+     - Organicé el equipo para orientarlo a resultados.<br/> 
+    
+      La documentación se encuentra en el GitHub.<br/>
 
     [GitHub](https://github.com/No-Country/c17-32-node-react) | [README](https://github.com/SLouQA/README-No-Country-c17-32)
     <br/>
 
       <img height="16" src="./Media/Herramientas-iconos/figma.png" alt="figma"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/Postman.png" alt="Postman"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/Selenium.png" alt="Selenium"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/github.png" alt="Git"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/VSCode.png" alt="VSCode"/>&nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/Trello.png" alt="trello"/> &nbsp;&nbsp;&nbsp;&nbsp; <img height="16" src="./Media/Herramientas-iconos/Excel.png" alt="excel"/> 
 
-    #### 2 - Proyecto en proceso <br/>
-     05/2024
+ 
 
 ### Survio
 [Web](https://www.survio.com/es/) 
